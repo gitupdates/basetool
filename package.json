@@ -57,7 +57,7 @@
     "immutability-helper": "^3.1.1",
     "intercom-client": "^2.11.2",
     "ioredis": "^4.28.0",
-    "joi": "^17.4.2",
+    "joi": "^17.13.9",
     "knex": "^0.95.14",
     "knex-schema-inspector": "^1.6.4",
     "knex-utils": "^5.4.0",
